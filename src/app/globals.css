@@ -1,0 +1,12 @@
+/* app/globals.css o tu archivo CSS global */
+
+/* Asegúrate de que estas tres directivas de Tailwind v3 estén presentes */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Puedes añadir tus estilos personalizados aquí abajo */
+body {
+  /* Por ejemplo, un color de fondo para probar */
+  background-color: #f0f0f0;
+}
